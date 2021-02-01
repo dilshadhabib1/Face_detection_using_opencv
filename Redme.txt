@@ -1,0 +1,11 @@
+follow the following stepts in order to run this file 
+
+
+1=> install python 3.7
+2=> install pycharm 
+3=> extract the code 
+4=> and open this project with pycharm 
+5=> run this project 
+
+
+to run this project you must have a webcam in your computer 
